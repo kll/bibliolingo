@@ -1,0 +1,33 @@
+# Core
+python-dotenv>=1.0.0
+pydantic>=2.5.0
+click>=8.1.7
+
+# LLM & Embeddings
+openai>=1.12.0
+
+# Vector Store
+pymongo>=4.6.0
+langchain-mongodb>=0.1.0
+langchain-openai>=0.0.5
+langchain-community>=0.0.20
+langchain-core>=0.1.20
+
+# Retrieval
+rank-bm25>=0.2.2
+
+# Markdown Processing
+markdown>=3.5
+beautifulsoup4>=4.12.0
+
+# Deduplication
+datasketch>=1.6.0
+
+# Utilities
+numpy>=1.24.0
+pandas>=2.0.0
+
+# Development
+pytest>=7.4.0
+black>=23.12.0
+ruff>=0.1.9

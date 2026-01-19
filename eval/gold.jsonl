@@ -1,0 +1,20 @@
+{"query": "How do I set up feature flags?", "target_docs": ["github-feature-flags"], "expected_doc_type": "HOWTO", "notes": "Should prefer GitHub docs"}
+{"query": "Why did we choose YARP for the API gateway?", "target_docs": ["confluence-3074097170"], "expected_doc_type": "ADR", "notes": "ADR about API gateway selection"}
+{"query": "How do I configure TwiML for calling?", "target_docs": ["github-twiml-setup"], "expected_doc_type": "HOWTO", "notes": "GitHub tutorial for TwiML configuration"}
+{"query": "What are our distributed systems architectural decisions?", "target_docs": ["confluence-3132522498", "confluence-3074097170"], "expected_doc_type": "ADR", "notes": "Multiple ADRs about distributed architecture"}
+{"query": "How to set up development environment?", "target_docs": ["github-how-to-setup-your-development-environment", "confluence-2308112410"], "expected_doc_type": "HOWTO", "notes": "Should prefer GitHub version"}
+{"query": "What is our Angular migration strategy?", "target_docs": ["confluence-2297004033", "confluence-2313814029"], "expected_doc_type": "HOWTO", "notes": "Angular migration guidelines"}
+{"query": "API gateway authentication methods", "target_docs": ["confluence-3074097170", "confluence-3078815764"], "expected_doc_type": "ADR", "notes": "ADRs covering auth and API gateway"}
+{"query": "How does identity verification work?", "target_docs": ["confluence-3078815764"], "expected_doc_type": "ADR", "notes": "Authentication/identity ADR"}
+{"query": "Event bus and change data capture architecture", "target_docs": ["confluence-3094052894"], "expected_doc_type": "ADR", "notes": "ADR about event bus CDC"}
+{"query": "Breaking up monolithic application design", "target_docs": ["confluence-3132522498"], "expected_doc_type": "ADR", "notes": "Monolith breakup ADR"}
+{"query": "What are our naming conventions for message queues?", "target_docs": ["confluence-3118268427"], "expected_doc_type": "ADR", "notes": "MassTransit naming ADR"}
+{"query": "PWA migration approach", "target_docs": ["confluence-3309371394"], "expected_doc_type": "ADR", "notes": "Progressive web app ADR"}
+{"query": "Dynamic configuration changes implementation", "target_docs": ["confluence-3446472705"], "expected_doc_type": "ADR", "notes": "Dynamic config ADR"}
+{"query": "Tailscale infrastructure setup", "target_docs": ["confluence-3461349399"], "expected_doc_type": "ADR", "notes": "Tailscale implementation ADR"}
+{"query": "Notification service architecture with Orleans", "target_docs": ["confluence-3666608129"], "expected_doc_type": "ADR", "notes": "Unified notification service ADR"}
+{"query": "How do I make my first call using the platform?", "target_docs": ["github-first-call"], "expected_doc_type": "HOWTO", "notes": "GitHub first call guide"}
+{"query": "Setting up client accounts", "target_docs": ["github-client-creation"], "expected_doc_type": "HOWTO", "notes": "Client creation guide"}
+{"query": "Reverse proxy routing for Grails endpoints", "target_docs": ["confluence-3178889217"], "expected_doc_type": "ADR", "notes": "Reverse proxy ADR"}
+{"query": "Scheduling microservice framework selection", "target_docs": ["confluence-3552935943"], "expected_doc_type": "ADR", "notes": "Scheduling framework ADR"}
+{"query": "What technologies do we use for calling?", "target_docs": ["github-twiml-setup", "github-first-call"], "expected_doc_type": "HOWTO", "notes": "Calling setup docs"}
